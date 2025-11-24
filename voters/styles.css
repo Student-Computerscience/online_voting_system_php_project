@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    overflow: hidden;
+}
+.header{
+  background-color: black;
+  text-align: center;
+  height: 9vh;
+  color: white;
+  padding-top: 1% ;
+}
+#left-side{
+  margin-left: 3%;
+  margin-top: 3%;
+  border-right: 2px solid black;
+
+}
+#right-side{
+ margin-top: 3%;
+ margin-left: 9%;
+}
+
+#edit_profile{
+  background-color: whitesmoke;
+  box-shadow: 2px 2px 2px 2px gray;
+  padding: 15px;
+  border-radius: 13px;
+ 
+}

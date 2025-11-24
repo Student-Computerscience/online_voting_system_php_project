@@ -1,0 +1,27 @@
+.header{
+  background-color: black;
+  text-align: center;
+  height: 9vh;
+  color: white;
+  padding-top: 1%;
+}
+.voter-registation-form, .voter-login-form{
+  background-color: whitesmoke;
+  padding: 1%;
+  border-radius: 15px;
+  
+  box-shadow: 2px 2px 2px 2px gray;
+}
+
+#left-side{
+  background-color: whitesmoke;
+  box-shadow: 2px 2px 2px 2px gray;
+  min-height: 600px;
+  padding-left: 35px;
+  padding-top: 25px;
+  border: 2px solid red;
+}
+#right-side{
+  border: 2px solid black;
+  min-width: 800px;
+}
